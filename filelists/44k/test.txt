@@ -1,0 +1,2 @@
+dataset/44k/karina-allemotions/Karina_cute-29.wav
+dataset/44k/karina-allemotions/Karina_cute-67.wav

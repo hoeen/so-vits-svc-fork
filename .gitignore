@@ -4,10 +4,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.wav
+dataset/
+dataset_raw/
 # C extensions
 *.so
-
+*.pth
 # Distribution / packaging
 .Python
 build/

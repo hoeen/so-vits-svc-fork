@@ -1,0 +1,1 @@
+docker build -t so-vits-svc:cuda12.0 .

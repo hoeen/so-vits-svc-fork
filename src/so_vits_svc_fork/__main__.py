@@ -113,7 +113,6 @@ def train(
 
     config_path = Path(config_path)
     model_path = Path(model_path)
-
     if tensorboard:
         import webbrowser
 
